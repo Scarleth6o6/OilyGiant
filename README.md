@@ -67,4 +67,4 @@ Then, open the appropriate `.ipynb` file and execute the cells to train and anal
 ```
 
 
-📂 **Repository:** [GitHub - SentimentAI](https://github.com/Scarleth6o6/proyecto_pozos_petroleros)
+📂 **Repository:** [GitHub - OilyGiant](https://github.com/Scarleth6o6/OilyGiant)
